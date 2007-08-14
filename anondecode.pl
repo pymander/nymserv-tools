@@ -2,6 +2,8 @@
 #
 # Decode pseudonym messages.  We read the message in from STDIN, and
 # ARGV1 is the passphrase filename.
+#
+# $Id$
 
 use strict;
 use Term::ReadKey;
